@@ -27,10 +27,10 @@ student-marks-prediction/
 ├── src/
 │ └── train_model.py
 ├── README.md
-└── requirements.txt
+└── requirements
 ## How to Run
 1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies`
 3. Run the training script or notebook
 
 ## Results
