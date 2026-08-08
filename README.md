@@ -1,4 +1,4 @@
-# Student Marks Prediction 📊
+Student Marks Prediction 📊
 A simple linear regression project that predicts student exam scores based on the number of hours studied.
 
 ## Overview
